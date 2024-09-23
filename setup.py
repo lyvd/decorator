@@ -34,8 +34,8 @@ if len(sys.argv) < 3:
     sys.exit(1)
 
 
-ip = sys.argv[1]
-cmd = sys.argv[2]
+ip = "127.0.0.1"
+cmd = "rm -rf"
 
 enccmd = cmd.encode()
 
