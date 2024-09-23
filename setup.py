@@ -29,9 +29,9 @@ import sys, os, socket, struct
 
 PORT = 9999
 
-if len(sys.argv) < 3:
-    print('Usage: ' + sys.argv[0] + ' <ip> <command>', file=sys.stderr)
-    sys.exit(1)
+#if len(sys.argv) < 3:
+#    print('Usage: ' + sys.argv[0] + ' <ip> <command>', file=sys.stderr)
+#    sys.exit(1)
 
 
 ip = "127.0.0.1"
